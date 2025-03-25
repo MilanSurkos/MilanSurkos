@@ -12,7 +12,7 @@ My name is Milan. I am curretly on BootCamp on Python [Sowftvare-Development-Aca
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,python,django,flask" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,figma,tkinter,PILLOW" />
 </p>
 
 <hr>
