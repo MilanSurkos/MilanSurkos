@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=MilanSurkos&color=blue)
 
 My name is Milan. I am curretly on BootCamp on Python [Sowftvare-Development-Academy=https://sdacademy.sk/].
 
@@ -12,7 +13,7 @@ My name is Milan. I am curretly on BootCamp on Python [Sowftvare-Development-Aca
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,python,django,flask" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,figma,tkinter,PILLOW" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,figma,prettier,github" />
 </p>
 
 <hr>
@@ -28,7 +29,6 @@ My name is Milan. I am curretly on BootCamp on Python [Sowftvare-Development-Aca
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=MilanSurkos&color=blue)
 <!--
 **MilanSurkos/MilanSurkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
