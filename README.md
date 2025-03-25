@@ -3,7 +3,9 @@
 
 My name is Milan. I am curretly on BootCamp on Python [Sowftvare-Development-Academy=https://sdacademy.sk/].
 
-≤br>
+<br>
+
+<hr>
 
 ## 🛠️ Languages and Tools
 
