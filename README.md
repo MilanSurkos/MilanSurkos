@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=MilanSurkos&color=blue)
 
-My name is Milan. I am curretly on BootCamp on Python [Sowftvare-Development-Academy=https://sdacademy.sk/].
+My name is Milan. I am curretly FINISH bootcamp [Sowftvare-Development-Academy=https://sdacademy.sk/].
 
 <br>
 
